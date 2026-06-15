@@ -7,7 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -68,3 +67,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### HomePage
+![alt text](homepage.png)
+
+### Create Note
+![alt text]({34F96307-84A5-4000-892E-DE72B9272350}.png)
+
+### Edit Note
+![alt text]({B98AD24E-087B-4824-A1C8-E709AA824E24}.png)
+
+### Delete Note
+![alt text]({69F9C50D-786A-4107-9A65-5F7DDB98CC3F}.png)
