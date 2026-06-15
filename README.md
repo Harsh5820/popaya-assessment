@@ -70,13 +70,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### HomePage
-![alt text](homepage.png)
+![alt text](frontend/homepage.png)
 
 ### Create Note
-![alt text](34F96307-84A5-4000-892E-DE72B9272350.png)
+![alt text](frontend/{34F96307-84A5-4000-892E-DE72B9272350}.png)
 
 ### Edit Note
-![alt text](B98AD24E-087B-4824-A1C8-E709AA824E24.png)
+![alt text](frontend/{B98AD24E-087B-4824-A1C8-E709AA824E24}.png)
 
 ### Delete Note
-![alt text](69F9C50D-786A-4107-9A65-5F7DDB98CC3F.png)
+![alt text](frontend/{69F9C50D-786A-4107-9A65-5F7DDB98CC3F}.png)
